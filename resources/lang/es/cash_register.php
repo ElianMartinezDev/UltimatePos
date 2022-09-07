@@ -7,7 +7,7 @@
 "open_cash_register" => "Abrir caja registradora",
 "enter_amount" => "Ingresar cantidad",
 "open_register" => "Abrir registro",
-"register_details" => "Registrar detalles",
+"register_details" => "Detalles de caja",
 "cash_payment" => "Pago en efectivo",
 "checque_payment" => "Verificar pago",
 "card_payment" => "Pago con tarjeta",
@@ -16,7 +16,7 @@
 "total_sales" => "Ventas totales",
 "total_cash" => "Efectivo total",
 "current_register" => "Registro actual",
-"close_register" => "Cerrar registro",
+"close_register" => "Cerrar caja",
 "total_card_slips" => "Total pases de tarjetas", /* modified */
 "total_cheques" => "Total cheques", /* modified */
 "closing_note" => "Nota de cierre",
