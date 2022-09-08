@@ -42,7 +42,7 @@
 "total_recovered" => "Cantidad total recuperada",
 "total_normal" => "Total Normal",
 "total_abnormal" => "Total anormal",
-"register_report" => "Registrar informe",
+"register_report" => "Informe de Cajas",
 "open_time" => "Hora de apertura", /* modified */
 "close_time" => "Hora de cierre",
 "user" => "Usuario",
